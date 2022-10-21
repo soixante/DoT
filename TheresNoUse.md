@@ -10,8 +10,8 @@ That growing old
 Will bring you ups  
 And bring you down  
 
-*Following their rules will turn you mad*
-*Following their rulse will turn you*
+> *Following their rules will turn you mad*  
+> *Following their rules will turn you*  
 
 What did mislead me ?  
 wanted to stay free  
@@ -22,8 +22,8 @@ that’s no joke
 you got to rope me  
 before I commit a crime  
 
-*Following their rules will turn you mad*
-*Following their rulse will turn you*
+> *Following their rules will turn you mad*  
+> *Following their rules will turn you*  
 
 what did you do to me  
 that made me feel so free  
